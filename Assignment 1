@@ -1,0 +1,57 @@
+documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Philosophy of AI}
+\author{Submitted by Sibi Yadav}
+\date{July 2021}
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+ Artificial intelligence philosophy is a subset of technology philosophy that investigates artificial intelligence and its implications for intelligence knowing and understanding, ethics, consciousness, epistemology, and free will.
+
+The philosophy of artificial intelligence aims to answer the following questions and These types of problems reflect the disparate interests of AI researchers, cognitive scientists, and philosophers.
+
+1)Can a machine think? Is it capable of reasoning its way out of any problem?
+
+2) Is there a distinction between human intellect and artificial intelligence? Is it possible that the human brain is a computer disguised as a human brain?
+
+3) Can a computer have a mind, mental states, and consciousness in the same way as a human can? Is it capable of detecting changes in the environment?
+
+The scientific responses to these questions are based on the definitions of "intelligence" and "consciousness."
+\section{Machine can display general intelligence}
+It makes no difference whether a machine is genuinely thinking (as a human is) or simply acting like one. Most AI researchers' core position can be summarised as follows: "Every facet of learning or any other feature of intelligence can be stated so accurately. 
+
+Some of the arguments against AI's construction and operation claim that the system is impossible because the human mind possesses some unique property that is required for intelligent action but cannot be reproduced or stimulated by a computer.
+
+The first step in answering the question is to define the terms "intelligence" and "Turing test," which we may do in our chat room. A is a type of computer, and A represents the computer system, B represents the human, and C represents the examiner. Because "if a machine acts as intelligently as a human being, then it is as intelligent as a human being," the Turing test is used to determine the humanness of a computer (machine). The exam does not accurately measure IQ since human behaviour and intelligent behaviour are not synonymous.
+
+The term "intelligent agent" is then used. Intelligence is defined in AI research in terms of intelligent agents. A "performance measure" defines the performance of a "agent," which is a thing that observes and reacts to its surroundings. "An agent is intelligent if it behaves to maximise the expected value of a performance measure based on past experience and knowledge."
+\section{Is symbol processing human think}
+Both human and machine intelligence, according to A, is based on "symbol manipulation." They expressed themselves as follows:
+
+●	"A physical symbol system possesses the necessary and sufficient means of general intelligent action," which suggests both that human thinking is a form of symbol manipulation (because a symbol system is required for intelligence) and that machines can be intelligent.
+
+●	"The mind can be understood as a device that operates on pieces of data according to formal rules," 
+\section{ Is symbol processing opponents arguments}
+These arguments demonstrate that human thinking is not completely (or even primarily) based on the manipulation of high-level symbols. They don't prove that artificial intelligence is impossible; rather, they show that it requires more than just symbol processing. Dreyfus argumen, like Gödelian anti-machinist
+\section{Is it possible for a computer to have awareness, mind, or mental states?}
+Is it possible for a computer to have awareness, mind, or mental states?
+This is a philosophical question that is related to the problem of other minds as well as the difficult problem of consciousness. The debate centres on John Searle's "strong AI" position:
+
+●	The fact that a physical symbol system can have a mind and mental states distinguishes Searle's position from that of 'weak AI'
+●	A physical symbol system is capable of intelligent behaviour.
+
+A few scientists believe that consciousness is a necessary component of intelligence, and their definition of "consciousness" is quite similar to "intelligence." We must first define "minds," "mental states," and "awareness" before we can respond to this question. However, arguments that a computer cannot have a mind or mental states are made afterwards.
+\section{Is it possible that thinking is a form of computation}
+According to computationalism, the link between the mind and the brain is comparable (if not identical) to that between a running programme and a computer. This question relates to the previous ones: if the human brain is a type of computer, then computers can be intelligent and conscious, answering both the practical and philosophical questions of the previous questions.. In terms of the practical question of AI,Can a machine display general intelligence?
+
+I) To put it another way, intelligence is derived from a type of computation comparable to arithmetic. It also suggests that artificial intelligence is conceivable. Most variants of computationalism assert that a machine can have a mind, mental states, and consciousness in terms of the philosophical question of AI, Can a machine have a mind, mental states, and consciousness?
+
+Il) Mental states are merely (the correct) computer programmes in action.
+
+Can a machine have emotions? and other related questions Is it possible for a machine to have its own consciousness? Is it possible for a machine to be inventive or original? Is it possible for a machine to be good or bad? , Is it possible for a machine to mimic every aspect of human behaviour? Is there such a thing as a soul for a machine?
+\section{conclusion}
+That AI advancement would be hampered by a lack of knowledge of philosophy or its principles.
+\end{document}
