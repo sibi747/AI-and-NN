@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\title{Godel's Incompleteness Theorems}
+\author{Submitted by Sibi Yadav }
+\date{July 2021}
+\begin{document}
+\maketitle
+\section{Summary}
+Incompleteness, as defined by Gödel The limits of provability in formal axiomatic systems are 
+addressed by two theorems of mathematical logic. Kurt Gödel published these results in 1931, 
+and they are significant in both mathematical logic and mathematical philosophy. The theorems 
+are often, but not always, taken as demonstrating that Hilbert's programme to find a full and 
+consistant set of functions is correct.The theorems are commonly, but not always, regarded as 
+demonstrating that Hilbert's programme to create a full and consistent set of axioms for all 
+mathematics is impossible.
+According to the first incompleteness theorem, no consistent set of axioms whose theorems can 
+be listed by an effective technique (i.e., an algorithm) can prove all truths about natural number 
+arithmetic. There will always be claims about natural numbers that are true but unprovable 
+within the system for any such consistent formal system. The second part is still missing.The 
+system cannot demonstrate its own consistency, according to the second incompleteness 
+theorem, which is an extension of the first.
+Under basic assumptions, Gödel's second incompleteness theorem demonstrates that this 
+canonical consistency statement Cons(F) will not be provable in F. In Gödel's work "On 
+Formally Undecidable Propositions in Principia Mathematica and Related Systems I," the 
+theorem was first published as "Theorem XI." The term "formalised system" in the following 
+sentence also incorporates the assumption that F is effectively axiomatized. "Assume F is a 
+consistent formalised system that contains elementary arithmetic," says the second 
+incompleteness theorem.
+This theorem is more powerful than the first incompleteness theorem since the first 
+incompleteness theorem's statement does not directly convey the system's consistency. 
+Formalizing the proof of the first incompleteness theorem within the system F yields the 
+demonstration of the second incompleteness theorem.
+The incompleteness results have an impact on mathematical philosophy, particularly forms of 
+formalism that specify their principles using a single system of formal logic. Incompleteness 
+theorems imply that there can be no universal mathematical theory, no unification of what is 
+provable and true. What mathematicians can prove is determined by their beginning 
+assumptions, rather than some basic ground truth from which all answers are derived.
+Mathematicians have discovered the kinds of unanswerable issues that Gödel's theorems 
+predicted. For example, Gödel helped prove that the continuum hypothesis, which concerns the 
+sizes of infinity, and the halting issue, which asks whether a computer programme supplied with 
+a random input will continue forever or eventually cease, are both undecidable.
+Unanswered issues have even arisen in physics, implying that Gödelian incompleteness affects 
+not only math, but reality in some unfathomable way.
+\end{document}
