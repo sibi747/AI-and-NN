@@ -1,0 +1,42 @@
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Moravec's Paradox}
+\author{Submitted by Sibi Yadav}
+\date{July 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Summary}
+A paradox is an apparently absurd or contradictory statement or notion that, upon more investigation, may turn out to be true.True or well-founded According to the paradox of Moravec,'It is very easy to have computers function at adult levels on intelligence tests or play checkers, but it's difficult or impossible to give them the perceptual and mobility skills of a one-year-old.'
+
+Hans Moravec, Rodney Brooks, and Marvin Minsky backed him up, stating that unconscious human skills are the most difficult to reverse engineer.'We're less aware of what our minds do well in general,' he wrote, and 'we're more aware of basic procedures that don't work well than complex ones that perform flawlessly.'
+
+The evolution of human skills- 
+Moravec claimed that years of evolution, experience, and natural selection had optimised and maintained the most adaptive, tried-and-true human skills required for survival in this world.
+
+He stated his case in the following manner-
+1. The amount of time it takes to reverse engineer a human skill is proportional to how long it took to evolve.
+2. As a skill becomes more ingrained, it becomes more unconscious, requiring less effort to perform.
+3. The easier it appears that a skill is to reverse engineer, the more difficult it is.
+
+Early years of AI research- 
+In the early years of AI, intelligence was thought to be something that highly educated male scientists found difficult, such as chess, symbolic integration, proving mathematical theorems, and solving complex word algebra problems.
+
+Because the leading researchers at the time had been successful in developing systems that utilised They were quite hopeful because they used reasoning, solved algebra and geometry problems, and played games like checkers and chess.for building thinking machines in just a few hours a couple of decades. 
+
+
+
+Steven Pinker, a linguist and cognitive scientist, claims that 35 years of AI study may be boiled down to a single question.
+"The hard problems are easy, and the easy problems are hard," says the phrase.
+In other words, talents like recognising a face, moving around in space, understanding people's intentions, catching a ball, recognising a voice, choosing appropriate goals, paying attention to intriguing things; everything to do with perception. 
+
+In comparison to the seemingly hard and newly gained talents of mathematics, engineering, games, logic, and scientific reasoning, the most difficult to achieve artificially are attention, visualisation, motor skills, social skills, and so on.
+
+
+As a result, it will be market analysts, petrochemical engineers, and parole board members who will be threatened by the introduction of intelligent devices in the coming years, rather than gardeners, receptionists, and cooks.
+
+\end{document}
