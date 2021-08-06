@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Assignment-4}
+\author{Submitted by Sibi Yadav}
+\date{August 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Summary}
+
+In the world of Finance Technical Analysis is a method of forecasting and selecting stocks to trade. In technical analysis stock charts are used to see pattern sand trade accordingly,One of the major principles is that ”History Repeats Itself” so if there was particular pattern of candles there are chances it would show same nature in future too. 
+Many Behavioral economics and quantitative
+analysis use many of the same tools of technical analysis but by many academics say it doesn’t work because Efficient Market hypothesis says stock price
+is unpredictable.
+
+Biggest difference AI can make is found out what works and what doesn’t by Back testing every strategy and Indicator we can find out which of them works.
+It will make the method very efficient and people won’t waste time on useless Indicators.
+Second thing it can do is increase efficiency, We see a lot of patterns in charts and Also ignore a lot of patterns with naked eye there is always a chance of
+error but with help of AI we can pinpoint it to exact pattern and see if it has worked in past or not, And we can find out false signals too.
+
+Since there were a lot of naive traders trading with technical analysis so the professionals developed strategies to trade against them and it became a zero sum game, If retail traders will use those strategies too they will not be susceptible to huge losses.
+
+Most of the hedge fund today use Fundamental Analysis (It uses various information about the company to determine it’s stock performance) or Quantitative
+methods which is maths combined with Technical Analysis. However in recent times they have shifted towards using AI and Machine learning they developed
+many strategies using Arbitrage or Data to find profits.
+Maybe with the help of AI we can prove Technical Analysis to be true Science or it may go other way and show us that it is utterly useless in both the cases it is good for financial markets.
+\end{document}
